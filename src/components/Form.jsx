@@ -1,6 +1,3 @@
-// form part for react video section 11
-
-
 import React from "react";
 import { useForm } from "react-hook-form";
 

@@ -1,8 +1,3 @@
-//section 11 Video
-// parent for card_form.jsx
-
-// name in section 11 react video is cards
-
 import React from "react";
 import Card from "./Card";
 

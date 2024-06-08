@@ -1,11 +1,10 @@
-// child of Card_form_usage_11
-
 import React from "react";
 
 function Card({user, handleRemove,id} ) {
   return <>
     
       <div className="w-52 h-full bg-zinc-100  flex flex-col items-center rounded-lg p-2">
+        
       <div className="image w-[3vw] h-[3vw] rounded-full bg-zinc-200 overflow-hidden">
         <img className="w-full h-full object-cover" src={user.image} alt="" />
       </div>
